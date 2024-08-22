@@ -1,0 +1,9 @@
+{
+	"name": "training-factory1708",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "708f97c3-8b0f-4831-a03c-60529266a657",
+		"tenantId": "f7c485ed-a04d-4769-a8b3-eefcf1b1b3f2"
+	}
+}

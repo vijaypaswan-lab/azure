@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,customer_name,product_id,product_name,category,quantity,price,payment_type,order_status,returned
+1001,28-07-2025,C004,Customer_4,P103,Denim Jean,Apparel,1,339.97,card,shipped,no
+1002,09-09-2025,C054,Customer_54,P117,USB Cable,Accessories,1,$380.61,cash,completed,no
+1003,13-08-2025,C059,Customer_59,P101,T-shirt XL,Apparel,3,278.26,card,completed,no
+1004,sept-2025,C013,Customer_13,P107,Charger,Accessories,3,$85.51,upi,completed,no
+1005,24-08-2025,C035,Customer_35,P112,Backpack,Accessories,1,343.88,cash,cancelled,no
+1006,09-16-2025,C028,Customer_28,P110,Watch,Accessories,3,$75.72,upi,cancelled,no
+1007,27-07-2025,C064,Customer_64,P116, keyboard ,electronics,2,315.59,upi,cancelled,no
+1008,10-08-2025,C069,Customer_69,P103,Denim Jean,Apparel,,$150.28,upi,delivered,no
+1009,06-09-2025,C065,Customer_65,P109,Jeans,Apparel,-1,271.99,cash,cancelled,yes
+1010,18-09-2025,C031,Customer_31,P109,jeans,Apparel,1,$47.4,card,cancelled,no
